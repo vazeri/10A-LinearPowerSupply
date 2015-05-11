@@ -1,0 +1,5 @@
+Change Component Comment : Designator=VR5 Old Comment=337 New Comment=vr5
+Change Component Designator: OldDesignator=VR5 NewDesignator=337
+Change Net Name : Old Net Name=NetC17_1 New Net Name=Net337_1
+Change Net Name : Old Net Name=NetC22_1 New Net Name=Net337_3
+Change Net Name : Old Net Name=NetR8_1 New Net Name=Net337_2

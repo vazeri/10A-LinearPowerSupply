@@ -1,0 +1,27 @@
+Added Component: Designator=L2(Bobina)
+Added Component: Designator=L3(Bobina)
+Added Pin To Net: NetName=Net1_1 Pin=L1-1
+Added Pin To Net: NetName=Net1_1 Pin=L1-2
+Added Pin To Net: NetName=Net1_4 Pin=L1-3
+Added Pin To Net: NetName=Net1_4 Pin=L1-4
+Added Pin To Net: NetName=Net3_1 Pin=L2-1
+Added Pin To Net: NetName=Net3_1 Pin=L2-2
+Added Pin To Net: NetName=Net3_4 Pin=L2-3
+Added Pin To Net: NetName=Net3_4 Pin=L2-4
+Added Pin To Net: NetName=Net2_1 Pin=L3-1
+Added Pin To Net: NetName=Net2_1 Pin=L3-2
+Added Pin To Net: NetName=Net2_4 Pin=L3-3
+Added Pin To Net: NetName=Net2_4 Pin=L3-4
+Change Net Name : Old Net Name=Net1_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=Net1_4 New Net Name=NetC6+_1
+Change Net Name : Old Net Name=Net2_1 New Net Name=NetC9_1
+Change Net Name : Old Net Name=Net2_4 New Net Name=NetC10_1
+Change Net Name : Old Net Name=Net3_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=Net3_4 New Net Name=NetC5_1
+Added Member To Class: ClassName=5v Member=Component D1 Bridge2
+Added Member To Class: ClassName=5v Member=Component L1 1mH
+Added Member To Class: ClassName=5v Member=Component L2 1mH
+Added Member To Class: ClassName=5v Member=Component L3 1mH
+Added Member To Class: ClassName=5v Member=Component Q1 TO-3
+Added Member To Class: ClassName=5v Member=Component R1 Res111
+Added Member To Class: ClassName=5v Member=Component R21 33 5W

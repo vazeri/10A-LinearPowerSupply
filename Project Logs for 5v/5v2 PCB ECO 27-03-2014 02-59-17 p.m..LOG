@@ -1,0 +1,9 @@
+Added Component: Designator=P5(cONECTOR)
+Added Component: Designator=P6(cONECTOR)
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=NetC7_1 Pin=P6-1
+Added Pin To Net: NetName=NetC7_1 Pin=P6-1
+Added Member To Class: ClassName=5v Member=Component P5 Tierra
+Added Member To Class: ClassName=5v Member=Component P6 Tierra
+Added Room: Name=5v

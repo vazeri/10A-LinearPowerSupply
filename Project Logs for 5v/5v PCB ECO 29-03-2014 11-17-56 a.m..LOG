@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=R3 Old Footprint=potbourns New Footprint=POT2
+Added Member To Class: ClassName=5v Member=Component C4 Cap Pol2
+Added Member To Class: ClassName=5v Member=Component C5 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component C6 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component C7 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component C8 Cap Tan
+Added Member To Class: ClassName=5v Member=Component C9 Cap Pol2
+Added Member To Class: ClassName=5v Member=Component C10 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component C11 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component Ct2 Cap Tan
+Added Member To Class: ClassName=5v Member=Component Ct3 Cap Tan
+Added Member To Class: ClassName=5v Member=Component D1 Bridge2
+Added Member To Class: ClassName=5v Member=Component D2 Diodo
+Added Member To Class: ClassName=5v Member=Component D3 Diodo
+Added Member To Class: ClassName=5v Member=Component L1 1mH
+Added Member To Class: ClassName=5v Member=Component L2 1mH
+Added Member To Class: ClassName=5v Member=Component L3 1mH
+Added Member To Class: ClassName=5v Member=Component P1 CA
+Added Member To Class: ClassName=5v Member=Component P2 Entrada
+Added Member To Class: ClassName=5v Member=Component P3 CD
+Added Member To Class: ClassName=5v Member=Component P4 Tierra
+Added Member To Class: ClassName=5v Member=Component P5 CD
+Added Member To Class: ClassName=5v Member=Component P6 
+Added Member To Class: ClassName=5v Member=Component Q1 TO-3
+Added Member To Class: ClassName=5v Member=Component Q2 TO-3
+Added Member To Class: ClassName=5v Member=Component R1 Res111
+Added Member To Class: ClassName=5v Member=Component R2 33 5W
+Added Member To Class: ClassName=5v Member=Component R3 RPot
+Added Member To Class: ClassName=5v Member=Component R4 Res1
+Added Member To Class: ClassName=5v Member=Component VR1 7805
+Added Member To Class: ClassName=5v Member=Component VR2 LM317

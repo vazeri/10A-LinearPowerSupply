@@ -1,0 +1,4 @@
+Added Component: Designator=L6(AXIAL-0.5)
+Added Pin To Net: NetName=NetC22_1 Pin=L6-1
+Added Pin To Net: NetName=NetC24_2 Pin=L6-2
+Added Member To Class: ClassName=Simetrica Member=Component L6 Inductor

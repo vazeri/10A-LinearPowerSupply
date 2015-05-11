@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=P1 Old Footprint=cONECTOR New Footprint=MOLEX
+Change Component Footprint: Designator=P2 Old Footprint=cONECTOR New Footprint=MOLEX
+Change Component Footprint: Designator=P3 Old Footprint=cONECTOR New Footprint=MOLEX
+Change Component Footprint: Designator=P4 Old Footprint=cONECTOR New Footprint=MOLEX
+Change Component Footprint: Designator=P5 Old Footprint=cONECTOR New Footprint=MOLEX
+Change Component Footprint: Designator=P6 Old Footprint=cONECTOR New Footprint=MOLEX
+Added Component: Designator=Ct2(RAD-0.3)
+Added Component: Designator=R1(AXIAL-0.9)
+Added Component: Designator=R2(AXIAL-0.9)
+Added Pin To Net: NetName=NetCt2_1 Pin=Ct2-1
+Added Pin To Net: NetName=GND Pin=Ct2-2
+Added Pin To Net: NetName=NetC7_1 Pin=R1-1
+Added Pin To Net: NetName=NetCt2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC7_1 Pin=R2-1
+Added Pin To Net: NetName=NetC8_1 Pin=R2-2
+Added Member To Class: ClassName=5v Member=Component Ct2 Cap Tan
+Added Member To Class: ClassName=5v Member=Component R1 Res111
+Added Member To Class: ClassName=5v Member=Component R2 33 5W

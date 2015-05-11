@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=VR2-1
+Removed Pin From Net: NetName=NetR3_2 Pin=VR2-2
+Removed Pin From Net: NetName=NetC9_1 Pin=VR2-3
+Change Component Footprint: Designator=VR1 Old Footprint=TO-220-AB New Footprint=HEATSINK
+Change Component Footprint: Designator=VR2 Old Footprint=TO-220-AB New Footprint=HEATSINK
+Added Pin To Net: NetName=NetR3_2 Pin=VR2-1
+Added Pin To Net: NetName=NetC9_1 Pin=VR2-2
+Added Pin To Net: NetName=NetC7_1 Pin=VR2-3

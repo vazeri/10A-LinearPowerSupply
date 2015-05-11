@@ -1,0 +1,4 @@
+Added Component: Designator=P4(cONECTOR)
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Member To Class: ClassName=5v Member=Component P4 Tierra

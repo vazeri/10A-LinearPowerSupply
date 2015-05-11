@@ -1,0 +1,10 @@
+Added Component: Designator=VR1(HEATSINK)
+Added Component: Designator=VR2(HEATSINK)
+Added Pin To Net: NetName=NetCt2_1 Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=NetC4_1 Pin=VR1-3
+Added Pin To Net: NetName=NetR3_2 Pin=VR2-1
+Added Pin To Net: NetName=NetC9_1 Pin=VR2-2
+Added Pin To Net: NetName=NetC8_1 Pin=VR2-3
+Added Member To Class: ClassName=5v Member=Component VR1 7805
+Added Member To Class: ClassName=5v Member=Component VR2 LM317

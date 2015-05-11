@@ -1,0 +1,67 @@
+Added Component: Designator=*(Bobina)
+Added Component: Designator=C1(RB7.6-15)
+Added Component: Designator=C2(RAD-0.3)
+Added Component: Designator=C3(RAD-0.4)
+Added Component: Designator=C4(RAD-0.4)
+Added Component: Designator=C5(RB7.6-15)
+Added Component: Designator=C6(RB7.6-15)
+Added Component: Designator=D1(PCBComponent_1)
+Added Component: Designator=D2(PCBComponent_1)
+Added Component: Designator=P1(cONECTOR)
+Added Component: Designator=P2(cONECTOR)
+Added Component: Designator=P3(cONECTOR)
+Added Component: Designator=Q1 PNP(PCBComponent_1)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=VR1(TO-220-AB)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=Net*_2 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=Net*_2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=Net*_2 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=Net*_2 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=Net*_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=Net*_2 Pin=D2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=P1-1
+Added Pin To Net: NetName=NetD1_2 Pin=P1-1
+Added Pin To Net: NetName=NetD1_4 Pin=P2-1
+Added Pin To Net: NetName=NetD1_4 Pin=P2-1
+Added Pin To Net: NetName=Net*_2 Pin=P3-1
+Added Pin To Net: NetName=Net*_2 Pin=P3-1
+Added Pin To Net: NetName=Net*_2 Pin=Q1 PNP-1
+Added Pin To Net: NetName=Net*_2 Pin=Q1 PNP-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q1 PNP-2
+Added Pin To Net: NetName=Net*_4 Pin=Q1 PNP-3
+Added Pin To Net: NetName=Net*_4 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VR1-1
+Added Pin To Net: NetName=GND Pin=VR1-2
+Added Pin To Net: NetName=Net*_2 Pin=VR1-3
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetC3_1
+Added Member To Class: ClassName=5v Member=Component * Component_1
+Added Member To Class: ClassName=5v Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component C2 Cap Tan
+Added Member To Class: ClassName=5v Member=Component C3 Cap Tan
+Added Member To Class: ClassName=5v Member=Component C4 Cap Pol2
+Added Member To Class: ClassName=5v Member=Component C5 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component C6 Cap Pol1
+Added Member To Class: ClassName=5v Member=Component D1 Bridge2
+Added Member To Class: ClassName=5v Member=Component D2 Diodo
+Added Member To Class: ClassName=5v Member=Component P1 CA
+Added Member To Class: ClassName=5v Member=Component P2 Entrada
+Added Member To Class: ClassName=5v Member=Component P3 CD
+Added Member To Class: ClassName=5v Member=Component Q1 PNP TO-3
+Added Member To Class: ClassName=5v Member=Component R1 Res1
+Added Member To Class: ClassName=5v Member=Component VR1 7805
+Added Room: Name=5v

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net337_1 Pin=337-1
+Removed Pin From Net: NetName=Net337_2 Pin=337-2
+Removed Pin From Net: NetName=Net337_1 Pin=VR4-1
+Removed Pin From Net: NetName=GND Pin=VR4-2
+Change Component Footprint: Designator=R15 Old Footprint=VR5 New Footprint=potbourns
+Added Pin To Net: NetName=Net337_2 Pin=337-1
+Added Pin To Net: NetName=Net337_1 Pin=337-2
+Added Pin To Net: NetName=GND Pin=VR4-1
+Added Pin To Net: NetName=Net337_1 Pin=VR4-2

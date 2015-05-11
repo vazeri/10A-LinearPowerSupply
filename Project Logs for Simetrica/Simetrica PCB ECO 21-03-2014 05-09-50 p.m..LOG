@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=VR3 NewDesignator=7812
+Change Component Designator: OldDesignator=VR4 NewDesignator=7912
+Change Net Name : Old Net Name=NetC12_1 New Net Name=Net7812_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=Net7812_3
+Change Net Name : Old Net Name=NetC18_1 New Net Name=Net7912_3
