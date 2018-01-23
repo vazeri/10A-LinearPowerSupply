@@ -1,10 +1,9 @@
 # 10A-LinearPowerSupply
-2 boards designed in Altium Designer 14, with digital volt and amp meters (detailed design procces can be read at [Instructables](https://www.instructables.com/id/10Amp-Linear-Power-Supply/) )
+2 boards designed in Altium Designer 14, with digital volt and amp meters (detailed design process can be read at [Instructables](https://www.instructables.com/id/10Amp-Linear-Power-Supply/) )
 ---
 Why do it for 3 when we can design for 10?! 
 
 Overcomplicating this kind of “simple” projects can make your life a bit harder but way more exiting, and the rewards just have no price, 
-
 
 ![alt text](https://vazeri.github.io/img/portfolio/5.jpg)
 
@@ -12,9 +11,9 @@ A linear power supply takes the 120vCA 60 Hz mains power, steps the voltage down
 
 Every single file used to make the power supply is in my GitHub Repository feel free to use it at your discretion, hopefully you can do it better, smaller, cheaper, or why not even bigger!
 
-# Schemmatics
+# Schematics
 
-Each component and its porpuse is explained to datail in this [Link](https://www.instructables.com/id/10Amp-Linear-Power-Supply/)
+Each component and its purpose is explained to detail in this [Link](https://www.instructables.com/id/10Amp-Linear-Power-Supply/)
 
 ![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/5vsch.jpg)
 
@@ -29,5 +28,6 @@ The power supply is actually 2 separate boards in order to save space and fit th
 ![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/pcb2.jpg)
 
 # BONUS: Choose your circuit protection!
+Pick one of the several schematics prepared to protect your circuit, and don’t forget, no breaker is as fast as a well calculated fuse!
 
 ![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/protection.jpg)
