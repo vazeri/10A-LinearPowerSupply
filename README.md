@@ -16,13 +16,18 @@ Every single file used to make the power supply is in my GitHub Repository feel 
 
 Each component and its porpuse is explained to datail in this [Link](https://www.instructables.com/id/10Amp-Linear-Power-Supply/)
 
-![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/dualsch.jpg?raw=true)
+![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/5vsch.jpg)
+
+![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/dualsch.jpg)
 
 # Printed Circuit Boards
 
 The power supply is actually 2 separate boards in order to save space and fit them in the case one above the other 
 
-![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/pcb1.jpg)
+![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/pcb1.jpg)
 
-![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/pcb2.jpg)
+![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/pcb2.jpg)
 
+# BONUS: Choose your circuit protection!
+
+![alt text](https://github.com/vazeri/10A-LinearPowerSupply/blob/master/img/protection.jpg)
