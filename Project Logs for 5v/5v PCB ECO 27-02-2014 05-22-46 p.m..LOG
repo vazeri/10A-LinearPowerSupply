@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=Net*_2 Pin=*-2
-Removed Pin From Net: NetName=Net*_3 Pin=*-3
-Change Component Comment : Designator=* Old Comment=1mH New Comment=Component_1
-Change Net Name : Old Net Name=Net*_2 New Net Name=NetC5_1
-Change Net Name : Old Net Name=Net*_3 New Net Name=NetC3_1
-Added Room: Name=5v

@@ -1,8 +1,0 @@
-Added Component: Designator=L7(bobinita)
-Added Component: Designator=L8(bobinita)
-Added Pin To Net: NetName=NetD4_1 Pin=L7-1
-Added Pin To Net: NetName=NetC12_1 Pin=L7-2
-Added Pin To Net: NetName=NetD4_3 Pin=L8-1
-Added Pin To Net: NetName=NetC17_1 Pin=L8-2
-Added Member To Class: ClassName=Simetrica Member=Component L7 Inductor
-Added Member To Class: ClassName=Simetrica Member=Component L8 Inductor

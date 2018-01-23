@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetD1_1 Pin=L1-1
-Removed Pin From Net: NetName=NetC1_1 Pin=L1-2
-Removed Pin From Net: NetName=NetC3_1 Pin=L2-1
-Removed Pin From Net: NetName=NetC5_1 Pin=L2-2
-Removed Member From Class: ClassName=5v Member=L1
-Removed Member From Class: ClassName=5v Member=L2

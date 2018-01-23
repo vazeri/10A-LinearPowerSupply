@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=P2-1
-Removed Pin From Net: NetName=Net*_2 Pin=P2-2
-Removed Member From Class: ClassName=5v Member=P2
-Change Component Footprint: Designator=C2 Old Footprint=RAD-0.1 New Footprint=RAD-0.3
-Change Component Designator: OldDesignator=Q1 NewDesignator=Q1 PNP

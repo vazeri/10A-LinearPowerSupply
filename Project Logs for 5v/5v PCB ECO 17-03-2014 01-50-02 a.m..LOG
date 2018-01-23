@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=R21 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.9
-Change Component Designator: OldDesignator=C6+ NewDesignator=C7
-Change Component Designator: OldDesignator=C7 NewDesignator=C8
-Change Component Designator: OldDesignator=R21 NewDesignator=R2
-Change Net Name : Old Net Name=NetC6+_1 New Net Name=NetC7_1
-Change Net Name : Old Net Name=NetC7_1 New Net Name=NetC8_1

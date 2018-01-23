@@ -1,4 +1,0 @@
-Added Component: Designator=D3(SuperDiodo)
-Added Pin To Net: NetName=NetC9_1 Pin=D3-1
-Added Pin To Net: NetName=NetC7_1 Pin=D3-2
-Added Member To Class: ClassName=5v Member=Component D3 Diodo

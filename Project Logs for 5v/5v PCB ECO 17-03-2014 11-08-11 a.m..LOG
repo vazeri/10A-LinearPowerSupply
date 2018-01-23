@@ -1,4 +1,0 @@
-Added Component: Designator=Ct2(RAD-0.3)
-Added Pin To Net: NetName=NetCt2_1 Pin=Ct2-1
-Added Pin To Net: NetName=GND Pin=Ct2-2
-Added Member To Class: ClassName=5v Member=Component Ct2 Cap Tan

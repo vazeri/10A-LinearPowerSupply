@@ -1,6 +1,0 @@
-Added Component: Designator=P2(cONECTOR)
-Added Pin To Net: NetName=NetD1_2 Pin=P1-1
-Added Pin To Net: NetName=NetD1_2 Pin=P1-1
-Added Pin To Net: NetName=NetD1_4 Pin=P2-1
-Added Pin To Net: NetName=NetD1_4 Pin=P2-1
-Added Member To Class: ClassName=5v Member=Component P2 Entrada
